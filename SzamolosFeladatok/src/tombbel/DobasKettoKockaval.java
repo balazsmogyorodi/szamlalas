@@ -14,6 +14,8 @@ public class DobasKettoKockaval {
         
         int[] dobasok = kettoKockavalDob(5);
         statisztika(dobasok);
+        
+        
     }
 
     private static int[] kettoKockavalDob(int db) {
